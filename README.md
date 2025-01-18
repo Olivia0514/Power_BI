@@ -14,7 +14,6 @@ To develop a dashboard that shows total revenue, regional and department contrib
 - <a href="https://github.com/Olivia0514/Power_BI/blob/main/Service%20Data.csv">Dataset</a>
 - <a href="https://github.com/Olivia0514/Power_BI/blob/main/Branch%20Data.csv">Dataset</a>
 
-  
 ### Key Questions (KPIs) 
 - Total Revenue and Hours: What is the overall revenue and the total hours worked across all services?
 - Regional Revenue Contribution: How do different regions contribute to the total revenue?
@@ -31,16 +30,17 @@ To develop a dashboard that shows total revenue, regional and department contrib
 ### Dashboard
 <img width="615" alt="RPD_image" src="https://github.com/user-attachments/assets/35b3e1af-8386-4d48-a9a3-5dc92b3008e2" />
 
+
 ### Project Insights
 1. Revenue Contribution:
-  - Total revenue: $195.32M.
-  - EMEA region leads with 37.73% ($73.69M), followed by APAC (24.97%) and Americas (24.87%).
+    - Total revenue: $195.32M.
+    - EMEA region leads with 37.73% ($73.69M), followed by APAC (24.97%) and Americas (24.87%).
 2. Client Insights:
-  - Top clients include Zuniga Group ($86,700) and Zamora-Jackson ($63,600).
+    - Top clients include Zuniga Group ($86,700) and Zamora-Jackson ($63,600).
 3. Department Performance:
-  - Revenue is highest in the Management department, followed by Advisory and Audit.
+    - Revenue is highest in the Management department, followed by Advisory and Audit.
 4. Monthly Trends:
-  - Revenue exhibits fluctuations, with consistent growth observed in specific months like March and August.
+    - Revenue exhibits fluctuations, with consistent growth observed in specific months like March and August.
 
 ### Final Conclusion
 This project revealed high-performing regions like EMEA, top departments such as Management and Advisory, and key clients driving revenue. Month-over-month trends highlighted growth opportunities and areas needing improvement. By focusing on underperforming areas and leveraging top-performing ones, the business can boost overall performance and growth.

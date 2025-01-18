@@ -31,17 +31,17 @@ To develop a dashboard that shows total revenue, regional and department contrib
 
 ### Project Insights
 ✅ Revenue Contribution:
-    - Total revenue: $195.32M.
-    - EMEA region leads with 37.73% ($73.69M), followed by APAC (24.97%) and Americas (24.87%).
+- Total revenue: $195.32M.
+- EMEA region leads with 37.73% ($73.69M), followed by APAC (24.97%) and Americas (24.87%).
     
 ✅ Client Insights:
-    - Top clients include Zuniga Group ($86,700) and Zamora-Jackson ($63,600).
+- Top clients include Zuniga Group ($86,700) and Zamora-Jackson ($63,600).
     
 ✅Department Performance:
-    - Revenue is highest in the Management department, followed by Advisory and Audit.
+- Revenue is highest in the Management department, followed by Advisory and Audit.
     
 ✅Monthly Trends:
-    - Revenue exhibits fluctuations, with consistent growth observed in specific months like March and August.
+- Revenue exhibits fluctuations, with consistent growth observed in specific months like March and August.
 
 ### Final Conclusion
 This project revealed high-performing regions like EMEA, top departments such as Management and Advisory, and key clients driving revenue. Month-over-month trends highlighted growth opportunities and areas needing improvement. By focusing on underperforming areas and leveraging top-performing ones, the business can boost overall performance and growth.

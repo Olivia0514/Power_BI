@@ -23,7 +23,7 @@ Develop dashboard that shows total revenue, regional and department contribution
 - Etracted and joined data from services_data and branch_data to link revenue with regions.
 - Calculated total revenue, hours, and contributions by region, department, and client, including revenue percentages.
 - Used SQL CTEs and the LAG() function to analyze month-over-month revenue changes, handling edge cases with CASE statements.
-- Identified top-performing regions, clients, and departments through revenue rankings.
+- Analyzed top-performing regions, clients, and departments through revenue rankings.
 
 ### Dashboard
 <img width="615" alt="RPD_image" src="https://github.com/user-attachments/assets/35b3e1af-8386-4d48-a9a3-5dc92b3008e2" />

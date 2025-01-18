@@ -1,5 +1,3 @@
-# Power BI
-
 # Olivia's Power BI Portfolio 📊
 
 ### Welcome to my Power BI Portfolio! This code repository contains Power BI projects I've visualized. Feel free to take a look and reach out if you have any questions.
@@ -32,14 +30,14 @@ To develop a dashboard that shows total revenue, regional and department contrib
 
 
 ### Project Insights
-1. Revenue Contribution:
+✅ Revenue Contribution:
     - Total revenue: $195.32M.
     - EMEA region leads with 37.73% ($73.69M), followed by APAC (24.97%) and Americas (24.87%).
-2. Client Insights:
+✅ Client Insights:
     - Top clients include Zuniga Group ($86,700) and Zamora-Jackson ($63,600).
-3. Department Performance:
+✅Department Performance:
     - Revenue is highest in the Management department, followed by Advisory and Audit.
-4. Monthly Trends:
+✅Monthly Trends:
     - Revenue exhibits fluctuations, with consistent growth observed in specific months like March and August.
 
 ### Final Conclusion

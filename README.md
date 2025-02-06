@@ -28,7 +28,7 @@ Develop dashboard that shows total revenue, regional and department contribution
 - Analyzed top-performing regions, clients, and departments through revenue rankings.
 
 ## Dashboard
-<img width="615" alt="RPD_image" src="https://github.com/user-attachments/assets/35b3e1af-8386-4d48-a9a3-5dc92b3008e2" />
+<img width="615" alt="RPD_image" src="https://github.com/Olivia0514/Power_BI/blob/main/Revenue%20Performance%20Dashboard.PNG" />
 
 
 ## Project Insights

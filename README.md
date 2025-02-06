@@ -22,7 +22,7 @@ Develop dashboard that shows total revenue, regional and department contribution
 - Dashboard Interaction <a href= "https://github.com/Olivia0514/Power_BI/blob/main/Revenue%20Performance%20Dashboard.PNG">View Dashboard</a>
 
 ## Process
-- Etracted and joined data from services_data and branch_data to link revenue with regions.
+- Extracted and joined data from services_data and branch_data to link revenue with regions.
 - Calculated total revenue, hours, and contributions by region, department, and client, including revenue percentages.
 - Used SQL CTEs and the LAG() function to analyze month-over-month revenue changes, handling edge cases with CASE statements.
 - Analyzed top-performing regions, clients, and departments through revenue rankings.

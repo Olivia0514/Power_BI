@@ -34,7 +34,7 @@ Develop dashboard that shows total revenue, regional and department contribution
 ## Project Insights
 ✅ Revenue Contribution:
 - Total revenue: $195.32M.
-- Europe region leads with 37.73% ($73.69M), followed by Americas (24.97%), APAC (24.87%) and EMEA (12.34%)
+- Europe only region leads with 37.73% ($73.69M), followed by Americas (24.97%), Asia-Pacific (24.87%) and Europe, Middle East, and Africa (12.34%)
     
 ✅ Client Insights:
 - Top clients include Smith Inc ($379,500) and Smith PLC ($323,100)
